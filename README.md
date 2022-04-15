@@ -1,4 +1,4 @@
 # testrepo
 git coursera
-## Editind
+## Editing
 Its a Markdown file in the repository
